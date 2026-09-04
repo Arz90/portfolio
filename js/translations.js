@@ -83,7 +83,11 @@ const translations = {
     'edu-trinity': 'Trinity College London Grade 5',
     'edu-trinity-tipo': 'Graded Examination in Spoken English',
     'edu-trinity-cert': 'Certificate in ESOL International (Speaking and Listening)',
-    
+    'edu-gdpymes': 'Inteligencia empresarial: IA, Big Data y otras herramientas digitales',
+    'edu-gdpymes-horas': '150 horas',
+    'edu-liderazgo': 'Liderazgo en Transformación Digital — Executive Program',
+    'edu-liderazgo-horas': '375 horas · 15 ECTS',
+
     // ==================== IDIOMAS ====================
     'idiomas-titulo': 'Idiomas y Ubicación',
     'idiomas-subtitulo': 'Idiomas',
@@ -190,7 +194,11 @@ const translations = {
     'edu-trinity': 'Trinity College London Grade 5',
     'edu-trinity-tipo': 'Graded Examination in Spoken English',
     'edu-trinity-cert': 'Certificate in ESOL International (Speaking and Listening)',
-    
+    'edu-gdpymes': 'Business Intelligence: AI, Big Data and other digital tools',
+    'edu-gdpymes-horas': '150 hours',
+    'edu-liderazgo': 'Digital Transformation Leadership — Executive Program',
+    'edu-liderazgo-horas': '375 hours · 15 ECTS',
+
     // ==================== IDIOMAS ====================
     'idiomas-titulo': 'Languages and Location',
     'idiomas-subtitulo': 'Languages',
